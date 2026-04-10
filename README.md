@@ -1,1 +1,3 @@
-chardet
+pandas
+streamlit
+numpy
