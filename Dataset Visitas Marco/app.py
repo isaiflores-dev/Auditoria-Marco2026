@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-st.set_page_config(page_title="Storytelling Marzo", layout="wide")
+st.set_page_config(page_title="Analisis de Visitas Marzo", layout="wide")
 
 st.title("📊 Storytelling Ejecutivo - Marzo")
 st.markdown("### Análisis de ejecución en campo")
