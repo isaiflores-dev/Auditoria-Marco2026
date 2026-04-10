@@ -4,7 +4,7 @@ import numpy as np
 
 st.set_page_config(page_title="Analisis de Visitas Marzo", layout="wide")
 
-st.title("📊 Storytelling Ejecutivo - Marzo")
+st.title("📊 Auditoria Marzo 2026")
 st.markdown("### Análisis de ejecución en campo")
 
 # 📂 Cargar archivo
