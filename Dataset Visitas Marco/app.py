@@ -28,8 +28,8 @@ if file:
         df = pd.read_csv(file, encoding='latin-1', sep=None, engine='python')
 
     return df
-
-df = read_csv_smart(file)
+  
+    df = read_csv_smart(file)
     df.columns = df.columns.str.strip()
 
     # 🧹 Limpieza
